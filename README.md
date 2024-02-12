@@ -2,7 +2,7 @@
 <div align="center">
   <a href="[https://www.mun.ca/biology/scarr/FISH_chromosome_painting.html](https://miro.medium.com/v2/resize:fit:839/1*uivjxg-_jmSpFqxwWH80DA.png
 )">
-    <img src="https://miro.medium.com/v2/resize:fit:839/1*uivjxg-_jmSpFqxwWH80DA.png" alt="" width="300" height="300">
+    <img src="https://miro.medium.com/v2/resize:fit:839/1*uivjxg-_jmSpFqxwWH80DA.png" alt="" width="500" height="300">
   </a>
 </div>
 
